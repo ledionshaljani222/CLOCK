@@ -1,0 +1,30 @@
+body{
+    background-color: gray;
+    color: gray;
+}
+
+
+.oraa{
+    position: absolute;
+    left: 45%;
+    top: 45%;
+}
+
+button{
+    color: gray;
+    height: 45px;
+    width: 70px;
+    font-size: 25px;
+    background-color: white;
+    border-radius: 5px ;
+}
+button:hover{
+    height: 55px;
+    width: 85px;
+    transition: ease-in 0.5s;
+}
+
+#ora{
+    color: black;
+    font-weight: 700;
+}
